@@ -3,8 +3,8 @@
   "subtitle": "ConnectionRCS' AltStore source!",
   "description": "ConnectionRCS' AltStore source, the easiest method to download our projects on iOS devices!",
   "iconURL": "https://i.imgur.com/JMc5eir.png",
-  "website": "",
-  "patreonURL": "",
+  "website": "https://exient.dev",
+  "patreonURL": "https://exient.dev",
   "tintColor": "#2e4298",
   "featuredApps": [
     "com.crcs.angrybirdsfight"
