@@ -3,37 +3,12 @@
   "subtitle": "ConnectionRCS' AltStore source!",
   "description": "ConnectionRCS' AltStore source, the easiest method to download our projects on iOS devices!",
   "iconURL": "https://i.imgur.com/JMc5eir.png",
-  "website": "https://exient.dev",
-  "patreonURL": "https://exient.dev",
   "tintColor": "#2e4298",
   "featuredApps": [
     "com.crcs.angrybirdsfight"
   ],
   "headerURL": "https://i.imgur.com/KfQE1yI.png",
   "apps": [
-    {
-      "name": "Angry Birds Go! Nitro [IGNORE THIS FOR NOW]",
-      "bundleIdentifier": "com.rovio.angrybirdsgo15",
-      "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/GuWBi9t.png",
-      "tintColor": "#2e4298",
-      "category": "other",
-      "screenshots": [],
-      "versions": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSContactsUsageDescription": "Allow this app to access contacts",
-          "NSPhotoLibraryUsageDescription": "Allow this app to access photo library",
-          "NSCameraUsageDescription": "Allow this app to access camera",
-          "NSCalendarsUsageDescription": "Allow this app to access calendars"
-        }
-      },
-      "patreon": {}
-    },
     {
       "name": "Angry Birds Fight! Reconnected",
       "bundleIdentifier": "com.crcs.angrybirdsfight",
