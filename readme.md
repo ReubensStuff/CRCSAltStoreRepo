@@ -1,4 +1,4 @@
 xd
 
 ## Download Mthods
-([Add to AltStore](https://tinyurl.com/SaltCRCS)))
+([Add to AltStore](https://tinyurl.com/crcsaltstorecrepo))
